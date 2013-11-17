@@ -1,7 +1,5 @@
-/*
-    DAC8412FPZ
 
-*/
+// DAC8412FPZ
 
 #define ADDR_BIT0   7   // Control pin got LSB of address bus
 #define ADDR_BIT1   6   // Control pin got MSB of address bus
